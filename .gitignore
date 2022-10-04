@@ -1,0 +1,8 @@
+# Remove Models directory for copyright reasons
+/Content/Models/*
+
+# Ignore saved build artifacts
+/Saved/*
+
+# Ignore Crypto.json idk why it's there
+/Modding/*
