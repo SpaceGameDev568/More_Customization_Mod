@@ -6,3 +6,6 @@
 
 # Ignore Crypto.json idk why it's there
 /Modding/*
+
+# Ignore my source assets
+/More_Customization_Mod-Buildings/*
